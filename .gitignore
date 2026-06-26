@@ -1,0 +1,15 @@
+# MongoDB Data Directory
+mongo-data/*
+!mongo-data/.gitkeep
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+*.*
+!.gitignore
+!docker-compose.yml
+!mongod.comf
+!.env.example
+!README.md
+!run.*

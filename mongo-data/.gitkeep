@@ -1,0 +1,2 @@
+# This file ensures that the mongo-data directory is tracked by Git, 
+# while all other contents within this directory are ignored.
